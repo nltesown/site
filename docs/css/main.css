@@ -17,6 +17,10 @@ strong {
   font-weight: bolder;
 }
 
+img {
+  width: 100%;
+}
+
 .container {
   width: 100%;
   max-width: 900px;
