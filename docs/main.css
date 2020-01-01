@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css?family=Muli:300,900&display=swap");
+
 .container {
   width: 100%;
   max-width: 900px;
@@ -5,4 +7,12 @@
   padding: 24px;
   box-sizing: border-box;
   background-color: #99c;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: Muli, sans-serif;
+  font-weight: 900;
 }
